@@ -130,9 +130,9 @@ export default function HeroPage() {
         </Link>
 
         <h1 className="text-5xl leading-[68px] md:text-6xl md:leading-[84px] font-medium max-w-2xl text-center">
-          Free template to start your{" "}
+          AI engine{" "}
           <span className="bg-gradient-to-r from-purple-500 to-purple-300 px-3 rounded-xl text-nowrap">
-            Next.js site.
+            Next.js
           </span>
         </h1>
 
